@@ -11,3 +11,4 @@ This is for lab practice
 - Add files to version control
 - Commit changes
 - Push commits to GitHub
+- And that's it
